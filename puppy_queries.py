@@ -59,4 +59,7 @@ def query_four():
 
         print "Shelter ID: " + id + "\nShelter Name: " + name + "\nPuppy Count: " + count + "\n"
 
+query_one()
+query_two()
+query_three()
 query_four()
